@@ -14,13 +14,11 @@
 
 *1. Clone the application*
 
-bash
-git clone https://github.com/knoldus/Spring-Boot-Crud-Operations-with-MySQL
+>> git clone https://github.com/knoldus/Spring-Boot-Crud-Operations-with-MySQL
 
 Alternatively, you can run the app without packaging it using -
 
-bash
-mvn spring-boot:run
+* mvn spring-boot:run
 
 > The application defines following REST APIs
 
