@@ -25,5 +25,5 @@ Alternatively, you can run the app without packaging it using -
 
 >> 1. GET /subjects - Get All subjects
 >> 2. POST /subjects - Create a new subjects
->> 3. PUT /subjects/{id} - Update a subjects
->> 4. DELETE /subjects/{id} - Delete a subjects
+>> 3. PUT /subjects/{id} - Update a subject
+>> 4. DELETE /subjects/{id} - Delete a subject
